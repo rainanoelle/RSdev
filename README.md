@@ -1,6 +1,6 @@
 # RSdev
 '''
 RayStation scripting files
-Raina N. Erwin, BS CMD
+Raina N. Smith, BS CMD
 UNC Health Care
 '''
